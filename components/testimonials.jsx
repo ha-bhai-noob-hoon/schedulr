@@ -46,7 +46,7 @@ const TestimonialsCarousel = () => {
     <Carousel
       plugins={[
         Autoplay({
-          delay: 5000,
+          delay: 2000,
         }),
       ]}
       className="w-full mx-auto"
