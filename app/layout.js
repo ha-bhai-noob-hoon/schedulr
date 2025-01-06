@@ -39,6 +39,7 @@ export default function RootLayout({ children }) {
             <p>Made by Abhijit.dev</p>
           </div>
         </footer>
+        <CreateEventDrawer />
       </body>
     </html>
     </ClerkProvider>
